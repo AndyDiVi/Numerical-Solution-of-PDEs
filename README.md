@@ -1,10 +1,11 @@
 # Numerical Treatment of Partial Differential Equations
 
 Authors: Andrea Di Via, Keylor Bazzotti & Michele Lai  
-Group: 01  
-University: Università di Genova — Department of Mathematics  
-Degree: Master's Degree in Mathematics  
-Academic year: 2023/2024
+
+
+https://github.com/user-attachments/assets/493bf24c-57d6-4072-a403-0a04aed185b9
+
+
 
 ## Overview
 
